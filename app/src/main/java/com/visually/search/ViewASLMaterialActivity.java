@@ -5,10 +5,13 @@ import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.VideoView;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import android.net.Uri;
 
 import com.visually.R;
+
+import java.util.Objects;
 
 public class ViewASLMaterialActivity extends AppCompatActivity {
 
